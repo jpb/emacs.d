@@ -3,6 +3,7 @@
 \#*
 .#*
 .cask/
+*.elc
 tmp/
 elpa
 /projectile-bookmarks.eld
